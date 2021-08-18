@@ -1,0 +1,7 @@
+main p {
+    color: red;
+    background-color: seagreen;
+}
+.main-title {
+    color: black !important;
+}
